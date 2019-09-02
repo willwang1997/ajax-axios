@@ -10,7 +10,7 @@ myajax({
 });
 
 
-function myajax(){
+function myajax(obj){
     var defaults = {
         type: "get",
         url: "#",
