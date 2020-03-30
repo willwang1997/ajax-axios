@@ -1,2 +1,1 @@
-# ajaxpackage
-ajax原生封装
+公共组件+函数小收集。
